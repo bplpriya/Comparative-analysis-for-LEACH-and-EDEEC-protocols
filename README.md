@@ -1,4 +1,4 @@
-###Comparative Analysis of LEACH and EDEEC protocols
+Title: Comparative Analysis of LEACH and EDEEC protocols.
 
 Comparing EDEEC and LEACH involves evaluating their performance in terms of energy efficiency, scalability, implementation complexity, and adaptability to different network scenarios. Both protocols are designed to optimize energy consumption in wireless sensor networks (WSNs) through clustering techniques, but they have different approaches and characteristics. LEACH work well only in homogeneous networks whereas EDEEC works well with heterogeneous networks. On comparing,
 
